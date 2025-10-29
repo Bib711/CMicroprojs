@@ -62,7 +62,7 @@ void viewData() {
         printf("No data found.\n");
         return;
     }
-
+    printf("\n Welcome to my new program.");
     printf("\n%-15s%-15s%-15s%-15s\n", "Date", "Steps", "Calories", "Progress (%)");
     printf("----------------------------------------------------------\n");
 
